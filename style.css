@@ -50,7 +50,7 @@ header h1 img{
     position: relative;
     z-index: 9;
     top: 0;
-    left: 25%;
+    left: 40%;
     padding: 1rem;
     margin: 2rem;
     transition: all 1s;
@@ -59,7 +59,7 @@ header h1 img{
     position: relative;
     z-index: 8;
     top: 0;
-    left: -35%;
+    left: -25%;
     width: 7rem;
     height: 7rem;
     transition: all 1s ease-in-out ;
